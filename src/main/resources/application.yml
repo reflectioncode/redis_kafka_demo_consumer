@@ -1,0 +1,4 @@
+kafka:
+  consumer:
+    topic: "products-event-topic"
+    group-id: "product-consumer-group"
